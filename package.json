@@ -1,0 +1,1 @@
+{"name": "dallas-transit-platform", "version": "1.0.0", "description": "A platform for managing Dallas transit data.", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "react": "^17.0.2", "express": "^4.17.1", "gtfs-realtime-bindings": "^1.6.1" }}
